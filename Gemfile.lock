@@ -432,7 +432,7 @@ GEM
     standard (1.14.0)
       rubocop (= 1.32.0)
       rubocop-performance (= 1.14.3)
-    stimulus-rails (1.1.0)
+    stimulus-rails (1.1.1)
       railties (>= 6.0.0)
     strscan (3.0.4)
     thor (1.2.1)
@@ -522,7 +522,7 @@ DEPENDENCIES
   selenium-webdriver
   sprockets-rails (>= 3.4.1)
   standard
-  stimulus-rails (~> 1.0, >= 1.0.2)
+  stimulus-rails (~> 1.1)
   turbo-rails!
   tzinfo-data
   web-console (>= 4.1.0)
