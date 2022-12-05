@@ -21,7 +21,7 @@ gem "puma", "~> 5.0"
 gem "turbo-rails", github: "marcelolx/turbo-rails", branch: "@hotwired/turbo/c4e0aba"
 
 # Hotwire's modest JavaScript framework [https://stimulus.hotwired.dev]
-gem "stimulus-rails", "~> 1.0", ">= 1.0.2"
+gem "stimulus-rails", "~> 1.2"
 
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
 gem "jbuilder", github: "excid3/jbuilder", branch: "partial-paths" # "~> 2.11"
